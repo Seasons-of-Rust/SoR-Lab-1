@@ -58,3 +58,10 @@ where \<username\> is your GitHub username.
 
 *I get to see how tests are passing for each student, so I'll be able to check
 in easily!*
+
+## License
+
+The Summer of Rust Labs is duel-licensed under either:
+
+* MIT License ([LICENSE-MIT](LICENSE-MIT) or [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT))
+* Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE) or [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0))
